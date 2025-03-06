@@ -1,4 +1,4 @@
-# FULL v0 System Prompts
+# FULL v0 System Promptss
 
 I managed to get ~~a big part of~~ FULL official v0 system prompts. Over 1.4k lines.
 
